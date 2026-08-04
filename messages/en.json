@@ -1,0 +1,106 @@
+{
+  "header": {
+    "nav": {
+      "home": "Home",
+      "journey": "Journey",
+      "updates": "Updates",
+      "contact": "Contact Us"
+    },
+    "languageSwitcher": {
+      "english": "EN",
+      "bulgarian": "BG"
+    }
+  },
+  "hero": {
+    "headline": "A quiet space for your",
+    "badge": "inner world",
+    "comingSoon": "Coming Soon",
+    "subtitle": "We are completely transforming our space in Blagoevgrad and redefining the Elegant experience. Contact us for inquiries, updates, and early access.",
+    "photos": {
+      "pilates": "pilates",
+      "dailyCheckins": "daily check-ins"
+    },
+    "alt": {
+      "pilates": "Pilates session",
+      "yoga": "Outdoor yoga and daily check-ins",
+      "dance": "Bulgarian folk dance"
+    }
+  },
+  "footer": {
+    "brand": "Wellness Center Elegant",
+    "description": "© 2024 Elegant. A digital retreat for calm, clarity, and renewal.",
+    "links": {
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "contact": "Contact"
+    }
+  },
+  "pages": {
+    "space": {
+      "eyebrow": "Space",
+      "title": "A calm home for rest, ritual, and renewal",
+      "intro": "The center is shaped around softness, quiet attention, and a sense of pause. Every room carries the feeling of a place designed to slow time and welcome stillness.",
+      "detailsLabel": "Atmosphere",
+      "details": "The material palette, natural light, and careful composition create an atmosphere that feels both grounded and gently elevated. This is a space for presence rather than performance."
+    },
+    "journey": {
+      "eyebrow": "Journey",
+      "title": "A season of renewal and becoming",
+      "intro": "What you see now is part of a larger becoming. The center is being renovated, the brand is being redefined, and the experience is being shaped into something more refined and more personal.",
+      "storyLabel": "The story",
+      "body": "We are in the middle of a thoughtful transformation — one that touches the physical space, the identity of the brand, and the way the experience is presented online. It is a process grounded in care, curiosity, and a desire to create something lasting.",
+      "focusLabel": "At the heart of it",
+      "focus": "The work is not only about change, but about clarity. We are shaping the space and the story so that the experience feels deeper, calmer, and more intentional for every visitor.",
+      "closing": "This chapter is about creating a new kind of welcome — one that is quieter, clearer, and more meaningful.",
+      "renovationAlt": "A calm visual of the renovation process and the new design direction"
+    },
+    "updates": {
+      "eyebrow": "Updates",
+      "title": "Notes from the unfolding process",
+      "intro": "Here we share the small and significant moments as the space evolves — from renovation progress to quiet shifts in atmosphere and the development of the experience itself.",
+      "items": {
+        "0": {
+          "title": "Renovation begins with the studio floor",
+          "date": "August 2026",
+          "category": "Renovation",
+          "text": "We are carefully restoring the main studio and shaping the new flow of the space with softness, clarity, and intention."
+        },
+        "1": {
+          "title": "A new visual language is taking shape",
+          "date": "July 2026",
+          "category": "Brand",
+          "text": "Our rebranding is moving from concept into a more tactile, editorial expression — calm, understated, and rooted in the experience of being here."
+        },
+        "2": {
+          "title": "The website is being reimagined",
+          "date": "June 2026",
+          "category": "Digital",
+          "text": "We are refining the way the experience is presented online, building a more thoughtful and immersive entry point for visitors before they even arrive."
+        }
+      }
+    },
+    "contact": {
+      "eyebrow": "Contact",
+      "title": "Get in touch",
+      "intro": "Whether you are planning a visit, asking a question, or simply want to say hello, we would be glad to hear from you.",
+      "links": {
+        "viberLabel": "Viber",
+        "viberDescription": "Message us directly on Viber",
+        "emailLabel": "Email",
+        "emailDescription": "Send us a thoughtful note",
+        "phoneLabel": "Phone",
+        "phoneDescription": "Call us for inquiries",
+        "facebookLabel": "Facebook",
+        "facebookDescription": "Follow updates and stories"
+      }
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "body": "At Wellness Center Elegant, we care about your privacy and the trust you place in us. This policy explains what information we collect, how we use it, and the choices you have when you visit our website or reach out to us.\n\nWe may collect basic information you provide voluntarily, such as your name, email address, phone number, or message content when you contact us through our forms, email, or social channels. We also use standard website analytics to understand how visitors use the site, which helps us improve the experience over time.\n\nThe information we collect is used to respond to your inquiries, share relevant updates, improve our services, and maintain the security and performance of our website. We do not sell your personal information. We may share limited information with trusted service providers that help us operate the website and communicate with our visitors, subject to confidentiality obligations.\n\nYou may choose not to provide certain information, though this may limit our ability to respond to your request or provide the information you seek. If you would like to request access to, correction of, or deletion of your information, please contact us directly.\n\nWe may update this Privacy Policy from time to time. Any significant changes will be reflected on this page."
+    },
+    "terms": {
+      "title": "Terms of Service",
+      "body": "Welcome to Wellness Center Elegant. By using this website, you agree to the following terms of use. These terms govern your access to and use of our website and any related content, including information about our space, services, updates, and contact channels.\n\nThe content on this website is provided for general informational purposes. While we make every effort to keep the information accurate and up to date, we do not guarantee that all content is complete, current, or free from errors. Any information about availability, services, or renovations is subject to change.\n\nYou agree not to use the website for unlawful, misleading, or disruptive purposes. You also agree not to attempt to copy, scrape, or misuse the visual design, text, images, or branding without our permission.\n\nOur website may include links to third-party services such as social platforms or communication tools. We are not responsible for the privacy practices, content, or availability of those external services.\n\nWe reserve the right to update or change these Terms of Service at any time. Continued use of the website after such changes constitutes your acceptance of the revised terms. If you do not agree with these terms, please discontinue use of the website."
+    }
+  }
+}
