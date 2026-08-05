@@ -6,22 +6,22 @@ export default async function ContactPage() {
   const contactLinks = [
     {
       label: t("contact.links.viberLabel"),
-      href: "https://invite.viber.com/?g2=AQB%2FBZ%2Fh%2F%2F%2Fi0%2F6bg7GyW%2F8f%2F%2F%2F8hQmJ%2Fz2a%2Fq%2F%2FQkYQWqC%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F2f",
+      href: "tel:+359885393000",
       description: t("contact.links.viberDescription"),
     },
     {
       label: t("contact.links.emailLabel"),
-      href: "mailto:hello@elegantwellness.bg",
+      href: "mailto:dimitarpazvanski98@gmail.com",
       description: t("contact.links.emailDescription"),
     },
     {
       label: t("contact.links.phoneLabel"),
-      href: "tel:+359888000000",
+      href: "tel:+359885393000",
       description: t("contact.links.phoneDescription"),
     },
     {
       label: t("contact.links.facebookLabel"),
-      href: "https://www.facebook.com",
+      href: "https://www.facebook.com/wellnesselegant/?locale=bg_BG",
       description: t("contact.links.facebookDescription"),
     },
   ];
