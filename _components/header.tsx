@@ -22,7 +22,7 @@ export default function Header() {
 
     return (
         <header className="w-full flex flex-col items-center">
-            <div className="w-full flex justify-center px-4 pt-5 pb-4">
+            <div className="w-full flex flex-col items-center gap-3 px-4 pt-5 pb-4 sm:flex-row sm:justify-center sm:gap-0">
                 <nav
                     className="flex items-center px-2 py-2 rounded-full"
                     style={{
@@ -35,7 +35,7 @@ export default function Header() {
                             <li key={link.href}>
                                 <Link
                                     href={link.href}
-                                    className="px-5 py-2 rounded-full text-sm font-medium text-neutral-600 hover:text-neutral-900 transition-all duration-150"
+                                    className="px-3 py-2 rounded-full text-sm font-medium text-neutral-600 hover:text-neutral-900 transition-all duration-150 sm:px-5"
                                     style={{ fontFamily: "var(--font-plus-jakarta-sans)" }}
                                 >
                                     {t(`nav.${link.labelKey}`)}
@@ -45,7 +45,7 @@ export default function Header() {
                     </ul>
                 </nav>
 
-                <div className="ml-4">
+                <div className="sm:ml-4">
                     <Link
                         href="/contact"
                         className="flex items-center gap-2.5 pl-5 pr-2 py-2 rounded-full text-sm font-semibold text-white transition-all duration-150 hover:opacity-90 active:scale-95"
@@ -78,7 +78,7 @@ export default function Header() {
                     </Link>
                 </div>
 
-                <div
+<div
                     className="flex items-center gap-1.5 px-4 py-2 text-sm font-medium"
                     style={{ fontFamily: "var(--font-plus-jakarta-sans)" }}
                 >
